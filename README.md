@@ -18,7 +18,6 @@ A Windows Forms application written in Visual Basic (.NET) that registers new st
 - [Project structure](#project-structure)
 - [Getting started](#getting-started)
 - [How to use the program](#how-to-use-the-program)
-- [Group members](#group-members)
 - [Acknowledgements](#acknowledgements)
 
 ---
@@ -136,22 +135,6 @@ Use this data to check the program. The answers must match.
 3. Type the amount paid and click **Calculate** to see the fees.
 4. Tick the Terms and Conditions box and click **Register**. If anything is wrong, a message lists what to fix. Otherwise the receipt appears and the status bar confirms the registration.
 5. Click **Clear** to start a new student, or **Exit** to close the program.
-
-
-```
-
-## Group members
-
-**Group 2, IT8**
-
-| Name | Student ID | Role |
-| --- | --- | --- |
-| *Avudzega Deladem Kodzo* | *10322359* | *e.g. Form design* |
-| *Glennette Naa Ashley Ashitey* | *ID* | *e.g. Calculations* |
-| *Emmanuel Odoi* | *ID* | *e.g. Validation and receipt* |
-| *Senyo Kekeli Kelvin* | Student ID | Role |
-| *Calistus Titriku* | Student ID | Role |
-| Name | Student ID | Role |
 
 ## Acknowledgements
 
