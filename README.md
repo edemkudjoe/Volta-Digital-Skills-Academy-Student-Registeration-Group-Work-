@@ -18,7 +18,6 @@ A Windows Forms application written in Visual Basic (.NET) that registers new st
 - [Project structure](#project-structure)
 - [Getting started](#getting-started)
 - [How to use the program](#how-to-use-the-program)
-- [Screenshots](#screenshots)
 - [Group members](#group-members)
 - [Acknowledgements](#acknowledgements)
 
@@ -138,13 +137,7 @@ Use this data to check the program. The answers must match.
 4. Tick the Terms and Conditions box and click **Register**. If anything is wrong, a message lists what to fix. Otherwise the receipt appears and the status bar confirms the registration.
 5. Click **Clear** to start a new student, or **Exit** to close the program.
 
-## Screenshots
 
-*Add screenshots of the running program here, for example:*
-
-```markdown
-![Registration form](screenshots/registration-form.png)
-![Receipt](screenshots/receipt.png)
 ```
 
 ## Group members
